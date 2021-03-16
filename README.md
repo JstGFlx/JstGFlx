@@ -3,9 +3,8 @@
 <p>
   📣 Хотите со мной связаться? Найдите меня здесь:<br/>
   <a href="https://t.me/JstGFlx"><img src="https://img.shields.io/badge/telegram-white.svg?style=for-the-badge&logo=telegram&logoColor=0077B5"/></a>
-  <a href="https://www.instagram.com/jstgflx/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/evgenygeyer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Evgenyi_Geyer"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a></p>
+  <a href="https://www.instagram.com/jstgflx/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <img align="right" src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" />
 <h2>⚡️Некоторые факты обо мне:</h2>
 <ul>
