@@ -38,10 +38,10 @@
       <img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" alt="redux" width="40" height="40"/> 
     </a>
     <a href="https://webpack.js.org" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+      <img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" alt="webpack" width="40" height="40"/> 
     </a> 
     <a href="https://nodejs.org" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+      <img src="https://s1.o7planning.com/ru/11931/images/20938929.png" alt="nodejs" width="40" height="40"/> 
     </a>
     <a href="https://graphql.org/" target="_blank"> 
       <img src="https://psv4.userapi.com/c536436/u73445166/docs/d4/725c212ce65c/31-08-2020-graphql.png?extra=XQuBwEXJQJ_aiDabOwV3bm4SXxw3Ggvos76b8Y70Tv9GNpkXbSEEeo0xb2IRXqcl7LSH5X-F_pXVcW7qw26cRO_fZwf0MPfn_8FHK_CT6mP0euzYrTH3QRVNAbwsmxoi5R4WaTE08MHS5u72MIHX" alt="graphql"  height="40"/> 
