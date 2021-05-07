@@ -1,5 +1,5 @@
 <h1 align="center">Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, меня зовут Евгений</h1>
-<p align="left">Я начинающий web-разработчик из России. Страстно горю желанием делать этот мир лучше и отзывчевее. В данный момент нахожусь в активном поиске своего первого работчего места.</p>
+<p align="left">Я начинающий web-разработчик из России. Страстно горю желанием делать этот мир лучше и отзывчевее.</p>
 <p>
   📣 Хотите со мной связаться? Найдите меня здесь:<br/>
   <a href="https://t.me/JstGFlx"><img src="https://img.shields.io/badge/telegram-white.svg?style=for-the-badge&logo=telegram&logoColor=0077B5"/></a>
@@ -27,7 +27,10 @@
     </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+      <img src="https://www.bryntum.com/wp-content/uploads/2019/03/ts.png" alt="typescript" width="40" height="40"/> 
+    </a>
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a>
@@ -39,6 +42,9 @@
     </a> 
     <a href="https://nodejs.org" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+    <a href="https://graphql.org/" target="_blank"> 
+      <img src="https://psv4.userapi.com/c536436/u73445166/docs/d4/725c212ce65c/31-08-2020-graphql.png?extra=XQuBwEXJQJ_aiDabOwV3bm4SXxw3Ggvos76b8Y70Tv9GNpkXbSEEeo0xb2IRXqcl7LSH5X-F_pXVcW7qw26cRO_fZwf0MPfn_8FHK_CT6mP0euzYrTH3QRVNAbwsmxoi5R4WaTE08MHS5u72MIHX" alt="graphql"  height="40"/> 
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> 
