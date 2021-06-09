@@ -44,7 +44,7 @@
       <img src="https://s1.o7planning.com/ru/11931/images/20938929.png" alt="nodejs" width="40" height="40"/> 
     </a>
     <a href="https://graphql.org/" target="_blank"> 
-      <img src="https://psv4.userapi.com/c536436/u73445166/docs/d4/725c212ce65c/31-08-2020-graphql.png?extra=XQuBwEXJQJ_aiDabOwV3bm4SXxw3Ggvos76b8Y70Tv9GNpkXbSEEeo0xb2IRXqcl7LSH5X-F_pXVcW7qw26cRO_fZwf0MPfn_8FHK_CT6mP0euzYrTH3QRVNAbwsmxoi5R4WaTE08MHS5u72MIHX" alt="graphql"  height="40"/> 
+      <img src="https://marmelab.com/images/blog/graphql/logo.png" alt="graphql"  height="40"/> 
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> 
