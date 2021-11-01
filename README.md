@@ -6,12 +6,11 @@
   <a href="https://www.linkedin.com/in/evgenygeyer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/jstgflx/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <img align="right" src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" />
-<h2>⚡️Некоторые факты обо мне:</h2>
 <ul>
 <li>🧐 После окончания университета, понял что хочу разрабатывать интерфейсы.</li>
-<li>🔭 Заканчиваю обучение в <a href="https://praktikum.yandex.ru/">Яндекс.Практикуме</a>.</li>
-<li>👨‍💻 В последнее время активно самостоятельно изучаю <strong>React</strong> и <strong>TypeScript</strong>.</li>
-<li>📙 <a href="https://drive.google.com/file/d/1i6050jxdfAmyR8ljJN0tORiz1APWUOx6/view?usp=sharing">Ссылка</a> на мое резюме.</li>
+<li>🔭 Заканчил в <a href="https://praktikum.yandex.ru/">Яндекс.Практикуме</a>.</li>
+<li>👨‍💻 В последнее время активно изучаю <strong>React</strong> и <strong>TypeScript</strong>.</li>
+<li>📙 <a href="https://drive.google.com/file/d/1Oxrxup4-swbyhnd_oM7k1pcUgIi9CxEw/view?usp=sharing">Ссылка</a> на мое резюме.</li>
 <li>✏️ Быстро адаптируюсь и обучаюсь.</li>
 </ul>
 <h2 align="left">Языки и инструменты:</h2>
