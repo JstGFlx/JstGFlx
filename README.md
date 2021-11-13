@@ -2,9 +2,9 @@
 <p align="left">Я начинающий web-разработчик из России. Страстно горю желанием делать этот мир лучше и отзывчевее.</p>
 <p>
   📣 Хотите со мной связаться? Найдите меня здесь:<br/>
-  <a href="https://t.me/JstGFlx"><img src="https://img.shields.io/badge/telegram-white.svg?style=for-the-badge&logo=telegram&logoColor=0077B5"/></a>
+  <a href="https://t.me/eutjeng"><img src="https://img.shields.io/badge/telegram-white.svg?style=for-the-badge&logo=telegram&logoColor=0077B5"/></a>
   <a href="https://www.linkedin.com/in/evgenygeyer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jstgflx/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eutjeng/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <img align="right" src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" />
 <ul>
 <li>🧐 После окончания университета, понял что хочу разрабатывать интерфейсы.</li>
