@@ -4,7 +4,6 @@
   📣 Do you want to contact me? Find me here:<br/>
   <a href="https://t.me/eutjeng"><img src="https://img.shields.io/badge/telegram-white.svg?style=for-the-badge&logo=telegram&logoColor=0077B5"/></a>
   <a href="https://www.linkedin.com/in/evgenygeyer/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/eutjeng/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <img align="right" src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif" />
 <ul>
 <li>🧐 After graduation, I realized that I wanted to develop interfaces;</li>
