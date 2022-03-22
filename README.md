@@ -9,7 +9,7 @@
 <li>🧐 After graduation, I realized that I wanted to develop interfaces;</li>
 <li>🔭 Completed a course at <a href="https://praktikum.yandex.ru/">Yandex.Practicum</a>;</li>
 <li>👨‍💻 I have more than a <strong>year</strong> of commercial development experience;</li>
-<li>📙 <a href="https://drive.google.com/file/d/1Oxrxup4-swbyhnd_oM7k1pcUgIi9CxEw/view?usp=sharing">Link</a> to my resume;</li>
+cv;</li>
 <li>✏️ I quickly adapt and learn.</li>
 </ul>
 <h2 align="left">Languages and tools:</h2>
