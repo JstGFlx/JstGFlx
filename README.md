@@ -40,7 +40,7 @@ I am a web developer from Russia, passionate about making the world a better and
 
 ### Utilities:
 - lodash 
-- date-fns , moment 
+- date-fns, datjs, moment 
 - qs, normalizr
 
 ### Build Tools:
