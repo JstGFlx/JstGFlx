@@ -8,9 +8,9 @@
 <ul>
 <li>🧐 After graduation, I realized that I wanted to develop interfaces;</li>
 <li>🔭 Completed a course at <a href="https://praktikum.yandex.ru/">Yandex.Practicum</a>;</li>
-<li>👨‍💻 I have more than a <strong>year</strong> of commercial development experience;</li>
+<li>👨‍💻 I have more than <strong>2 years</strong> of commercial development experience;</li>
 <li>📙 <a href="https://eutjeng.notion.site/Eugene-Geyer-b10f075dc70a49fe85cb7b495b2e57d4?pvs=4">Link</a> to my cv;</li>
-<li>✏️ I quickly adapt and learn.</li>
+<li>✏️ I adapt and learn quickly.</li>
 </ul>
 <h2 align="left">Languages and tools:</h2>
   <p align="left">
