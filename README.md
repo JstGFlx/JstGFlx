@@ -11,4 +11,4 @@ I am a web developer from Russia, passionate about making the world a better and
 - 🔭 Completed a course at [Yandex.Practicum](https://praktikum.yandex.ru/).
 - 👨‍💻 I have more than **2 years** of commercial development experience.
 - ✏️ I adapt and learn quickly.
-- 📙 [Link to my CV](https://eutjeng.notion.site/Eugene-Geyer-b10f075dc70a49fe85cb7b495b2e57d4?pvs=4)
+- 📙 [Link to my CV](https://eutjeng.notion.site/ce71a498f142406ba28c23e19d360c1d)
