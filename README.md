@@ -2,9 +2,8 @@
 
 ## Frontend Developer | React | TypeScript
 
-📍 **Location**: Phuket, Thailand  
-📧 **Email**: [me@eugene-geyer.ru](mailto:me@eugene-geyer.ru)  
-📞 **Contact**: [Telegram](https://t.me/eutjeng)
+Phuket, Thailand  
+[Telegram](https://t.me/eutjeng)
 
 ### Skills
 - React, Redux, Next.js, TypeScript, ES6+
