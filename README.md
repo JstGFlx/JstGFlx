@@ -2,8 +2,8 @@
 
 ## Frontend Developer | React | TypeScript
 
-Phuket, Thailand  
-[Telegram](https://t.me/eutjeng)
+📍 **Location**: Phuket, Thailand  
+📞 **Contact**:  [Telegram](https://t.me/eutjeng)
 
 ### Skills
 - React, Redux, Next.js, TypeScript, ES6+
