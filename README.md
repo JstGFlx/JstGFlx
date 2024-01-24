@@ -1,7 +1,13 @@
-# Hi, my name is Eugene
+# Eugene Geyer
 
-I am a web developer from Russia, passionate about making the world a better and more responsive place.
+## Frontend Developer | React | TypeScript
 
-## Contact Me:
-- [Telegram](https://t.me/eutjeng)
-- [LinkedIn](https://www.linkedin.com/in/evgenygeyer/)
+📍 **Location**: Phuket, Thailand  
+📧 **Email**: [me@eugene-geyer.ru](mailto:me@eugene-geyer.ru)  
+📞 **Contact**: [Telegram](https://t.me/eutjeng)
+
+### Skills
+- React, Redux, Next.js, TypeScript, ES6+
+- HTML5, CSS3, Material-UI, Figma
+- Golang, GraphQL, WebSockets
+- Git, Sentry
