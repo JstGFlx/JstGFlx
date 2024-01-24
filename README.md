@@ -1,6 +1,6 @@
 # Eugene Geyer
 
-## Frontend Developer | React | TypeScript
+## Web Developer | React | TypeScript
 
 📍 **Location**: Phuket, Thailand  
 📞 **Contact**:  [Telegram](https://t.me/eutjeng)
