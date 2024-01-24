@@ -1,6 +1,6 @@
 # Eugene Geyer
 
-## Web Developer | React | TypeScript
+## Web Developer | TypeScript | React | Go
 
 📍 **Location**: Phuket, Thailand  
 📞 **Contact**:  [Telegram](https://t.me/eutjeng)
