@@ -1,6 +1,6 @@
 # Web Developer | TypeScript | React | Go
 
-[**eutjeng.website**](https://www.eutjeng.website)
+[**eutjeng.website**](https://eutjeng.website)
 
 📍 **Location**: Phuket, Thailand  
 📞 **Contact**:  [Telegram](https://t.me/eutjeng)  
